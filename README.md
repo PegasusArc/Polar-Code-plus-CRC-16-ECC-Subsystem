@@ -50,7 +50,6 @@ main/
 └── tb_basic.sv               # student-visible testbench
 README.md                     # this file
 report.md / report.pdf        # 2-page design report
-ai_log.txt                    # AI usage log (required)
 ```
 
 ---
