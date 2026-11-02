@@ -5,7 +5,7 @@
 
 ## Quick Start — Vivado xsim
 
-Run all commands from the `main/` directory (or from the project root by prefixing `Code/`).
+Run all commands from the `Code/` directory (or from the project root by prefixing `Code/`).
 
 ### 1. Compile
 
