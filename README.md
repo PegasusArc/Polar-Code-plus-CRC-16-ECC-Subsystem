@@ -5,7 +5,7 @@
 
 ## Quick Start — Vivado xsim
 
-Run all commands from the `main/` directory (or from the project root by prefixing `main/`).
+Run all commands from the `main/` directory (or from the project root by prefixing `Code/`).
 
 ### 1. Compile
 
@@ -42,7 +42,7 @@ All `$display` output goes to the console. A waveform dump (`tb_basic.vcd` or xs
 ## File Structure
 
 ```
-main/
+Code/
 ├── polar_common_pkg.sv       # shared parameters, tables, and functions
 ├── polar64_crc16_encoder.sv  # Polar + CRC-16 encoder
 ├── polar64_crc16_decoder.sv  # Polar BDD-3 + CRC-16 decoder
